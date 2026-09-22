@@ -1,0 +1,21 @@
+# Mój pierwszy agent — karta obserwacji
+
+- Narzędzie i model: Cursor, Cursor Grok 4.6
+
+- Moje zadanie (2–3 zdania): W folderze obserwacje jest desktopowy generator haseł (WinForms). Agent miał naprawić suwak długości hasła, bo pokazywał złą wartość, a potem poprawić nachodzące na siebie napisy w nagłówku.
+
+- Pierwsza wiadomość (wklejona co do znaku): w folderze testy-main jest folder obserwacje z plikami do aplikacji desktopowej i to jest generator hasel napraw mi suwak w tym generatorze bo zle pokazuje dlugoc hasla
+
+- Co agent zrobił najpierw: Przeszukał pliki projektu, znalazł suwak w MainForm.cs (TrackBar) i od razu zaczął czytać kod zamiast pytać, o co chodzi.
+
+- O co pytał — i co zostało zatwierdzone bez czytania: Agent prawie w ogóle nie pytał użytkownika. Sam uruchamiał komendy (dotnet run/build) i prosił o szersze uprawnienia do terminala oraz o zrzut ekranu. Część kliknięć na pulpicie poszła w złą aplikację.
+
+- Pierwszy błąd i co agent z nim zrobił: Pierwsze uruchomienie w terminalu padło na sandboxie Windows. Agent powtórzył komendę z pełnymi uprawnieniami, zbudował aplikację i poprawił suwak (układ + liczenie długości od 8 do 32).
+
+- Stan po 25 minutach: działa
+
+- Skąd wiem, że aplikacja działa (co zostało sprawdzone): Projekt kompiluje się bez błędów. Suwak pokazuje liczbę obok toru, a po drugiej poprawce tytuł i podtytuł nie nachodzą na siebie. Nie było pełnego testu „przeciągnij suwak na 8 i 32 i wygeneruj hasło” w tej sesji.
+
+- Rzeczy, które agent zrobił, a których nie rozumiem: TrackBar z Minimum = 0 i długość liczona jako wartość + 8; SyncSliderThumb (ustawienie wartości na min i z powrotem); kolejność Dock w WinForms; zrzuty ekranu i kliknięcia po pulpicie.
+
+- Jak mi się wydawało, że poszło (jedno zdanie): Szybko naprawił to, o co prosiłem, ale sam kombinował przy narzędziach i ekranie, zamiast najpierw krótko zapytać.

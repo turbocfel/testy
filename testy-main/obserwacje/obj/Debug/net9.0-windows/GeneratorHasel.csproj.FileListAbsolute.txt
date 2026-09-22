@@ -1,0 +1,14 @@
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\bin\Debug\net9.0-windows\GeneratorHasel.exe
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\bin\Debug\net9.0-windows\GeneratorHasel.deps.json
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\bin\Debug\net9.0-windows\GeneratorHasel.runtimeconfig.json
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\bin\Debug\net9.0-windows\GeneratorHasel.dll
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\bin\Debug\net9.0-windows\GeneratorHasel.pdb
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.AssemblyInfoInputs.cache
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.AssemblyInfo.cs
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.csproj.CoreCompileInputs.cache
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.dll
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\refint\GeneratorHasel.dll
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.pdb
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\GeneratorHasel.genruntimeconfig.cache
+C:\Users\saraburaadam\Desktop\testy-main\obserwacje\obj\Debug\net9.0-windows\ref\GeneratorHasel.dll
